@@ -2,4 +2,4 @@
 This is a clean master app ui that i created for fun i am sure you can make something great out of it
 <video src=""></video>
 
-[![SC2 Video]()](https://github.com/UmairMukhtar/react-native-clean-master/blob/main/demos/Clean%20Master%20App.mp4)
+[![SC2 Video](https://github.com/UmairMukhtar/react-native-clean-master/blob/main/demos/React%20Native.PNG)](https://github.com/UmairMukhtar/react-native-clean-master/blob/main/demos/Clean%20Master%20App.mp4)
